@@ -1,6 +1,6 @@
 header {
-    background-color: black;
-    color: white;
+    background-color: rgb(142, 35, 105);
+    color: #fff;
     padding: 10px;
 
 }
@@ -12,7 +12,7 @@ nav ul{
 }
 
 nav li{
-    margin: 0 10px;
+    margin: 0 20px;
 }
 
 nav a{
